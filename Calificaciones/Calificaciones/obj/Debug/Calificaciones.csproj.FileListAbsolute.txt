@@ -1,0 +1,16 @@
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.controlador.resources
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.modelo.resources
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Vista.resources
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.cache
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\MySql.Data.dll
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\Google.Protobuf.dll
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\bin\Debug\MySql.Data.xml
+C:\Users\Gato\source\repos\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CopyComplete
